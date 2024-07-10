@@ -48,6 +48,7 @@ public class Calculator {
         }
 
         System.out.println("Result: " + result);
+        System.out.println("poll SCM");
 
         scanner.close();
     }
